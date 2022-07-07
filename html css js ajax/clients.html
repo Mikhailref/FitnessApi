@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clients</title>
+    <link href="clients-style.css" rel="stylesheet" >
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <style>
+        body{
+    background-image: url('assets/images/backgroundClients.jpg');
+    background-repeat: space;
+           }    
+    </style>
+</head>
+
+<body>
+
+<div id="IdNav"></div>
+<script>
+$(function(){
+$("#IdNav").load("assets/navigation.html");
+});
+</script>
+
+
+
+<div class="space"></div>
+
+<div class="welcome">
+    <h2 class="text">Clients</h2>
+</div>
+  
+    <form class="form">    
+        <div>
+            <label for="Idradio">All</label><br>
+            <input type="radio" id="Idradio">
+        </div>
+        <div>
+            <label for="Idradio">ID</label><br>
+        <input type="radio" id="Idradio">
+        </div>
+        <div>
+            <label for="Idradio">Name</label><br>
+            <input type="radio" id="Idradio">
+        </div>
+        <input type="text" placeholder="Name" >
+        <button type="button" id="IDbutton" >Search</button> 
+    </form>
+
+    <div class="divClients" id="IDdiv"></div>
+
+
+    <script src="clients-script.js"></script>
+</body>
+</html>

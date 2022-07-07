@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link href="index-style.css" rel="stylesheet" >
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <style>
+        body{
+    background-image: url('assets/images/background.jpg');
+    background-repeat: space;
+           }    
+    </style>
+</head>
+
+<body onload="LoadEmployees()">
+
+<nav>
+<div id="IdNav"></div>
+<script>
+$(function(){
+$("#IdNav").load("assets/navigation.html");
+});
+</script>
+</nav>
+
+<div class="space"></div>
+
+<div class="welcome">
+    <h2 class="text">Welcome to the club</h2>
+</div>
+  
+
+    <div class="divEmployees" id="IDdiv"></div>
+
+   
+
+    <script src="index-script.js"></script>
+</body>
+
+</html>

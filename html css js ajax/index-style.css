@@ -1,0 +1,66 @@
+.space{
+    display: block;
+    height: 20px;
+    
+}
+
+.welcome{
+    display: block;
+    color:white;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    
+}
+
+.text{
+text-align: left;
+}
+
+.form{
+    margin-left: 30px;
+    
+}
+
+  .form input{
+    /* margin:auto; */
+    margin-bottom: 10px;
+    display: block;
+    padding: 4px;
+    text-align: left;
+  }
+  
+  .divEmployees  {
+    display: block;
+    margin-top: 28px;  
+  }
+
+  .employees{
+   
+    display:inline-block;
+    margin:30px;
+    padding: 13px;
+
+  }
+
+  .imageOfEmployee {
+    margin-left: 0px;
+    object-fit:cover;
+  }
+
+  .imageDescription {
+    background-color:black;
+    margin:0px;
+  }
+
+  .imageDescription ul{
+    
+  } 
+
+
+  .imageDescription li {
+    color:white;
+    margin-right:10px;
+  }
+
+  
