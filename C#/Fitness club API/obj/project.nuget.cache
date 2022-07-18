@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j1ldnGX4XKAc/fVUtIYelEZIu214pHDuWrsnfo9kipkMoiOpEtvUThgGoXUUJ3D7e8RMWrCp36Vt4yr/htjZoQ==",
+  "dgSpecHash": "q6d1qrVVicSLmajJRMKnXgCthE6S2LchiIkq5K/tSUx0EndOOA9krI5l8aoajCo6/ggsVwcrxXd4S80Pz4aY8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\007\\Desktop\\coding\\PRACTICE OVERALL\\Fitness club API version 1.2\\C#\\Fitness club API\\Fitness club API.csproj",
+  "projectFilePath": "C:\\Users\\007\\Desktop\\coding\\Practice projects\\API CORE projects with c# sql js ajax json html css\\Fitness club API ongoing\\C#\\Fitness club API\\Fitness club API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\007\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\007\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

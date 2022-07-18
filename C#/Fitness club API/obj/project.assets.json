@@ -201,6 +201,15 @@
             "rid": "win"
           }
         }
+      },
+      "Library/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.dll": {}
+        }
       }
     }
   },
@@ -642,10 +651,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Library/1.0.0": {
+      "type": "project",
+      "path": "../../../../Libraries/Library/Library.csproj",
+      "msbuildProject": "../../../../Libraries/Library/Library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Library >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "System.Data.SqlClient >= 4.8.3"
     ]
@@ -657,11 +672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\007\\Desktop\\coding\\PRACTICE OVERALL\\Fitness club API version 1.2\\C#\\Fitness club API\\Fitness club API.csproj",
+      "projectUniqueName": "C:\\Users\\007\\Desktop\\coding\\Practice projects\\API CORE projects with c# sql js ajax json html css\\Fitness club API ongoing\\C#\\Fitness club API\\Fitness club API.csproj",
       "projectName": "Fitness club API",
-      "projectPath": "C:\\Users\\007\\Desktop\\coding\\PRACTICE OVERALL\\Fitness club API version 1.2\\C#\\Fitness club API\\Fitness club API.csproj",
+      "projectPath": "C:\\Users\\007\\Desktop\\coding\\Practice projects\\API CORE projects with c# sql js ajax json html css\\Fitness club API ongoing\\C#\\Fitness club API\\Fitness club API.csproj",
       "packagesPath": "C:\\Users\\007\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\007\\Desktop\\coding\\PRACTICE OVERALL\\Fitness club API version 1.2\\C#\\Fitness club API\\obj\\",
+      "outputPath": "C:\\Users\\007\\Desktop\\coding\\Practice projects\\API CORE projects with c# sql js ajax json html css\\Fitness club API ongoing\\C#\\Fitness club API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -681,7 +696,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\007\\Desktop\\coding\\Practice projects\\Libraries\\Library\\Library.csproj": {
+              "projectPath": "C:\\Users\\007\\Desktop\\coding\\Practice projects\\Libraries\\Library\\Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

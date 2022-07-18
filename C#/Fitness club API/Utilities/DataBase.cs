@@ -17,7 +17,7 @@ namespace Fitness_club_API.Utilities
         private readonly Clients? Client;
 
         private readonly SqlConnection conn = new SqlConnection
-        (@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Fitness Club Clients;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+        (@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=FitnessSQL;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
 
 
         public (Employees, List<Employees>) EmployeesReader([Optional] int Id)
@@ -26,7 +26,7 @@ namespace Fitness_club_API.Utilities
             if (Id > 0)
             {
                 SqlCommand command = new SqlCommand
-                ($"Select * from [Fitness Club Clients].[dbo].[Employees] where Id = '{Id}'", conn);
+                ($"Select * from [FitnessSQL].[dbo].[Employees] where Id = '{Id}'", conn);
                 conn.Open();
 
                 SqlDataReader reader = command.ExecuteReader();
@@ -47,7 +47,7 @@ namespace Fitness_club_API.Utilities
             else
             {
                 SqlCommand command = new SqlCommand
-                   ($"Select all * from [Fitness Club Clients].[dbo].[Employees] ", conn);
+                   ($"Select * from [FitnessSQL].[dbo].[Employees] ", conn);
                 conn.Open();
 
                 SqlDataReader reader = command.ExecuteReader();
@@ -77,7 +77,7 @@ namespace Fitness_club_API.Utilities
             if (Id > 0)
             {
                 SqlCommand command = new SqlCommand
-                ($"Select * from [Fitness Club Clients].[dbo].[Clients] where Id = '{Id}'", conn);
+                ($"Select * from [FitnessSQL].[dbo].[Clients] where Id = '{Id}'", conn);
                 conn.Open();
 
                 SqlDataReader reader = command.ExecuteReader();
@@ -99,7 +99,7 @@ namespace Fitness_club_API.Utilities
             else
             {
                 SqlCommand command = new SqlCommand
-                   ($"Select all * from [Fitness Club Clients].[dbo].[Clients] ", conn);
+                   ($"Select * from [FitnessSQL].[dbo].[Clients] ", conn);
                 conn.Open();
 
                 SqlDataReader reader = command.ExecuteReader();
@@ -132,7 +132,7 @@ namespace Fitness_club_API.Utilities
                 using (conn)
                 {
                     conn.Open();
-                    string sql = "INSERT into [Fitness Club Clients].[dbo].[Clients] (Id,FirstName,SecondName,Image,Gender)  VALUES (@Id,@FirstName,@SecondName,@Image,@Gender)";
+                    string sql = "INSERT into [FitnessSQL].[dbo].[Clients] (Id,FirstName,SecondName,Image,Gender)  VALUES (@Id,@FirstName,@SecondName,@Image,@Gender)";
 
                     using (SqlCommand command = new SqlCommand(sql, conn))
                     {
@@ -152,7 +152,7 @@ namespace Fitness_club_API.Utilities
                 using (conn)
                 {
                     conn.Open();
-                    string sql = "INSERT into [Fitness Club Clients].[dbo].[Employees] (Id,FirstName,SecondName,Image, Department)  VALUES (@Id,@FirstName,@SecondName,@Image,@Department)";
+                    string sql = "INSERT into [FitnessSQL].[dbo].[Employees] (Id,FirstName,SecondName,Image, Department)  VALUES (@Id,@FirstName,@SecondName,@Image,@Department)";
 
                     using (SqlCommand command = new SqlCommand(sql, conn))
                     {
@@ -181,7 +181,7 @@ namespace Fitness_club_API.Utilities
                 {
                     case "Clients":
 
-                        sql = $"DELETE from [Fitness Club Clients].[dbo].[Clients] where Id = '{Id}'";
+                        sql = $"DELETE from [FitnessSQL].[dbo].[Clients] where Id = '{Id}'";
 
                         using (SqlCommand command = new SqlCommand(sql, conn))
                         {
@@ -192,7 +192,7 @@ namespace Fitness_club_API.Utilities
 
                     case "Employees":
 
-                        sql = $"DELETE from [Fitness Club Clients].[dbo].[Employees] where Id = '{Id}'";
+                        sql = $"DELETE from [FitnessSQL].[dbo].[Employees] where Id = '{Id}'";
 
                         using (SqlCommand command = new SqlCommand(sql, conn))
                         {

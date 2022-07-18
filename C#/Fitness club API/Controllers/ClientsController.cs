@@ -1,6 +1,8 @@
 ﻿using Fitness_club_API.Models;
 using Fitness_club_API.Utilities;
+using Library;
 using Microsoft.AspNetCore.Mvc;
+
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -29,6 +31,8 @@ namespace Fitness_club_API.Controllers
         [HttpGet]
         public IEnumerable<Clients> Get()
         {
+            
+
             (client, clients) = data.ClientsReader();
             return clients;
         }

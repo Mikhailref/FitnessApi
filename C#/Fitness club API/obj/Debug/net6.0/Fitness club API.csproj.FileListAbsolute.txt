@@ -64,3 +64,38 @@ C:\Users\007\Desktop\coding\PRACTICE OVERALL\Fitness club API version 1.2\C#\Fit
 C:\Users\007\Desktop\coding\PRACTICE OVERALL\Fitness club API version 1.2\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.pdb
 C:\Users\007\Desktop\coding\PRACTICE OVERALL\Fitness club API version 1.2\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.genruntimeconfig.cache
 C:\Users\007\Desktop\coding\PRACTICE OVERALL\Fitness club API version 1.2\C#\Fitness club API\obj\Debug\net6.0\ref\Fitness club API.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\appsettings.json
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Fitness club API.exe
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Fitness club API.deps.json
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Fitness club API.runtimeconfig.json
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Fitness club API.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Fitness club API.pdb
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Library.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\bin\Debug\net6.0\Library.pdb
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.csproj.AssemblyReference.cache
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.AssemblyInfoInputs.cache
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.AssemblyInfo.cs
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.csproj.CoreCompileInputs.cache
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\scopedcss\bundle\Fitness club API.styles.css
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.csproj.CopyComplete
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\refint\Fitness club API.dll
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.pdb
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\Fitness club API.genruntimeconfig.cache
+C:\Users\007\Desktop\coding\Practice projects\API CORE projects with c# sql js ajax json html css\Fitness club API ongoing\C#\Fitness club API\obj\Debug\net6.0\ref\Fitness club API.dll

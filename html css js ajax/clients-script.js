@@ -25,7 +25,7 @@ xhr.open('GET', 'https://localhost:7280/api/clients', true);
     switch(clients[i].gender)
     {
         case 0:
-            gender='uknown';
+            gender='unknown';
             break;
             case 1:
                 gender='male';
